@@ -1,0 +1,19 @@
+/*/////////////////////////////////////////////////////////////////////////
+                          Workshop - #3 (DIY)
+Full Name  : Andy Chong
+Student ID#: 150588229
+Email      : achong11@myseneca.ca
+Section    : NHH
+
+I have done all the coding by myself and only copied the code that my professor
+provided to complete my workshops and assignments.
+/////////////////////////////////////////////////////////////////////////*/
+    The topics that I learned while completing this workshop include learning how
+use and implement objects and using the helpful iostream member functions. Being
+able to use the member functions fill, setf, unsetf, and width when creating the
+table helped me format the chart as expected. Using the fill allowed me to fill up
+and empty space that was needed. Next I learned how to use class and using public
+and private class. Also I used the member functions as a method to change or modify/
+The most difficulty I had while completing this workshop was formatting the chart
+to correctly output when it was an Invalid Calorie list and a valid list. Also
+implementing the xxxxx.... in the blank lines was tricky to figure out as well. 

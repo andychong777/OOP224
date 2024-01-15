@@ -1,0 +1,21 @@
+/*/////////////////////////////////////////////////////////////////////////
+                          Workshop - #2 (DIY)
+Full Name  : Andy Chong
+Student ID#: 150588229
+Email      : achong11@myseneca.ca
+Section    : NHH
+
+I have done all the coding by myself and only copied the code that my professor
+provided to complete my workshops and assignments.
+/////////////////////////////////////////////////////////////////////////*/
+    During this workshop, I had the opportunity to work on various deliverables 
+related to dynamic memory allocation and dynamic arrays and pointers in C++. I had
+some trouble with understanding the new concepts fully and watched youtube videos
+explaining this topic in order to fully understand. This helped me to grasp the 
+concepts and apply them effectively in my code. An out parameter is used when a
+function needs to return multiple values. It allows the function to modify the
+value of the parameter and pass it back to the caller. In the code, the function
+"read" recieves an out parameter in the form of the postalCode and Population
+variables. In contrast, an "in parameter" is used when a function only needs to 
+receive a value for processing and does not modify it. Looking at the code, the 
+function "sort" is an example of a function that receives an in parameter. 

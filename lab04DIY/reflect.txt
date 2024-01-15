@@ -1,0 +1,22 @@
+/*/////////////////////////////////////////////////////////////////////////
+                          Workshop - #4 (DIY)
+Full Name  : Andy Chong
+Student ID#: 150588229
+Email      : achong11@myseneca.ca
+Section    : NHH
+
+I have done all the coding by myself and only copied the code that my professor
+provided to complete my workshops and assignments.
+/////////////////////////////////////////////////////////////////////////*/
+During this workshop we continued to build upon the use of Dynamic Allocation/ 
+memory and using it to allocate arrays as well as deallocating it afterwards. 
+I also got use the constructor and deconstructions while working on the workshop. 
+I also learned that once you make a constructor we must delete the memory before 
+the constructor is destoyed. We also in the DIY part had to know which functions 
+belong in public and which belong in the private. All functions that the code 
+communicates outside would be used in public and variables with array or macros 
+can be held in private. The biggest problem I faced while completing this lab 
+was when formatting the chart and getting the code right for that. The other 
+parts of the DIY was pretty smooth saling but debugging the problem that I had 
+with the output took some time and I had to carefully go back and look for the 
+small mistakes that could be the problem.
