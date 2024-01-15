@@ -1,0 +1,2 @@
+const int MAX_TITLE_LENGTH = 50;
+const int MAX_QUANTITY_VALUE = 50;

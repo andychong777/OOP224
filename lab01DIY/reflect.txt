@@ -1,0 +1,20 @@
+///////////////////////////////////////////////////////////////////////////
+                               Reflection
+                             Workshop - #1
+Full Name  : Andy Chong
+Student ID#: 150588229
+Email      : achong11@myseneca.ca
+Section    : NHH
+///////////////////////////////////////////////////////////////////////////
+    I learned about modular programming and being able to divide work into a modular
+and easy to read and maintain program by making different files for functions 
+related to different tasks. As well as using header files. Furthermore I learned 
+about the syntax of the c++ language like using namespaces to organize code into 
+logical groups and prevent name colisions, and #include <iostream> to access the 
+input/output library. The most difficult part of the assignment was strStr function 
+as it took me a long time to understand how to implement the logic to return the 
+address of the first occurrence of str2 in str1. Also debugging my code is always 
+tedious and even the smallest mistakes can go unnoticed. I had to do extra research 
+in order to help complete the DIY part of the lab as I feel as I still have a lot 
+of struggles when it comes to being a great coder. I want to keep improving and 
+get better to be able to do it with confidence. 
