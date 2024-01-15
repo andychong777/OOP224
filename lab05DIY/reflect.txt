@@ -1,0 +1,21 @@
+/*/////////////////////////////////////////////////////////////////////////
+                          Workshop - #5 (Part 1)
+Full Name  : Andy Chong
+Student ID#: 150588229
+Email      : achong11@myseneca.ca
+Section    : NHH
+
+I have done all the coding by myself and only copied the code that my professor
+provided to complete my workshops and assignments.
+/////////////////////////////////////////////////////////////////////////*/
+    I was able to use overload member operators during this workshop. Using these
+operators we were able to verify and validate the marks as an int double or char.
+As well as using type conversion. An important point in overloading an opererator
+is to know which variable we are adding to the other. During the workshop I was
+confused on getting the right output because the Mark::operator int() const function
+should return a negative number, but in order to get the correct output for the
+tester we had to make it return zero. If for example we had another cout after
+int(n += 60) which was (n += 60) the first n should return 0 becuase it is invalid
+but if n = 0 it should return 60 but if n is invalid it should return 0. Finally
+I had to make mark = -1 and mark a negative number for Mark::Mark(int mark) inorder
+to get the correct output for the tester.

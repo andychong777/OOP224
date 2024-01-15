@@ -1,0 +1,22 @@
+/*/////////////////////////////////////////////////////////////////////////
+                          Workshop - #9 (part 2 - Reflection)
+Full Name  : Andy Chong
+Student ID#: 150588229
+Email      : achong11@myseneca.ca
+Section    : NHH
+
+I have done all the coding by myself and only copied the code that my professor
+provided to complete my workshops and assignments.
+/////////////////////////////////////////////////////////////////////////*/
+    During this workshop we used things like inheritance, virtual funcitons, and
+file handling in C++. It helped me understand the ability in creating modualar and
+maintainable code. Some of the challeneges I faced during this workshop was I kept
+getting an error when trying to complie. I realised I had forgotten to include the 
+fstream directive, which is very importnat for file handling functions in cpp.
+Another obstacle arose when I encountered an issue with the 'override' specifier 
+in the HtmlText class. This turned out to be due to an incorrectly overridden function, 
+teaching me the importance of matching function signatures precisely when overriding 
+base class functions. One puzzling error I encountered was the 'illegal qualified 
+name in member declaration.' This experience emphasized that using a qualified name 
+in a member declaration is not allowed and reinforced the importance of adhering to 
+the rules of the scope resolution operator. 

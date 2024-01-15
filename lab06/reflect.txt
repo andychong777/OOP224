@@ -1,0 +1,25 @@
+/*/////////////////////////////////////////////////////////////////////////
+                          Workshop - #6 (part 2 Reflection)
+Full Name  : Andy Chong
+Student ID#: 150588229
+Email      : achong11@myseneca.ca
+Section    : NHH
+
+I have done all the coding by myself and only copied the code that my professor
+provided to complete my workshops and assignments.
+/////////////////////////////////////////////////////////////////////////*/
+I was able to learn how to copy an object during this workshop. First, there are 
+two ways to copy an object. There is a way to copy using a constructor or by using 
+the operator "=". In the process of copying, shallow and deep copies occur. However,
+the disadvantage of shallow copying is that if a variable with dynamic memory is 
+copied, a memory leak will occur later. This is because when copying, only pointers 
+are copied, not values. So I used deep copy in this workshop.  I have learned how to 
+read and write files. In this workshop, I did not just read and write files, but 
+overloaded insertions and extraction operators. These operators were passed as a 
+parameter to a function defined within the class of reading and writing the file 
+and used to enter or read the values of the member variables. And it is better 
+to make a habit of checking with is_open() to make sure that you read the file 
+properly before reading the file. When I read the value in the file using getline(), 
+I read it using string because the length is unknown. I need to convert the string 
+to C-style using "c_str" because to enter the value to the character pointer 
+variable later. To use these string functions, I must declare the string library.

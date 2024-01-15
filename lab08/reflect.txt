@@ -1,0 +1,22 @@
+/*/////////////////////////////////////////////////////////////////////////
+                          Workshop - #7 (part 2 - reflect)
+Full Name  : Andy Chong
+Student ID#: 150588229
+Email      : achong11@myseneca.ca
+Section    : NHH
+
+I have done all the coding by myself and only copied the code that my professor
+provided to complete my workshops and assignments.
+/////////////////////////////////////////////////////////////////////////*/
+This week I was able to take a deep dive on the topic on inheritance concepts 
+and polymorphism of C++. I also incorporated the concepts of Inheritance and 
+Base and Derived Class in this workshop. Inheritance is one of the most 
+important properties of OOP and allows to define a class in terms of another 
+class, which makes it easier to create and maintain an application. Also, it 
+provides reusability. Also we had to give access, like private, protected, and 
+public. Private gives full access to bars, protected provides limited access to 
+only the derived class, and lastly public had unlimited access. Some trouble that 
+I had during the workshop was when I was writing the code to make the rectangle, 
+I am not sure my code would’ve worked when dealing with height if it was only 1 
+or 2. Overall the workshop was pretty straight forward as taking concepts from 
+previous workshops and implementing them into this workshop as well.

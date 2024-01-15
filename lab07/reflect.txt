@@ -1,0 +1,21 @@
+/*/////////////////////////////////////////////////////////////////////////
+                          Workshop - #7 (part 2- Reflection)
+Full Name  : Andy Chong
+Student ID#: 150588229
+Email      : achong11@myseneca.ca
+Section    : NHH
+
+I have done all the coding by myself and only copied the code that my professor
+provided to complete my workshops and assignments.
+/////////////////////////////////////////////////////////////////////////*/
+Learning the concept of inheritance, I was able to use the member variables and 
+functions of the parent class depending on which types use. The class that gives 
+inheritance is the parent class. And the child class is the inherited class.  We 
+can call and use the functions from the parent class, but the parent cannot use 
+from child class. To add on, when the instance of the derived class is terminated, 
+the destructor of the derived class is called first, followed by the destructor of 
+the base class. Also, I was able to overload the input and output and implemented 
+them. Some trouble that I had while completing this workshop was in main line 87. 
+Cargo of 3456 would put truck over capacity of 5432, if cargo is bulk then can add 
+up to 5432 but if cargo is not bulk it cannot add. The sample output seems to treat 
+it as bulk. Furthermore, the code will not allow a partial unload. 

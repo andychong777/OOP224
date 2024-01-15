@@ -1,0 +1,28 @@
+/*/////////////////////////////////////////////////////////////////////////
+                          Workshop - #10 (part 1)
+Full Name  : Andy Chong
+Student ID#: 150588229
+Email      : achong11@myseneca.ca
+Section    : NHH
+
+I have done all the coding by myself and only copied the code that my professor
+provided to complete my workshops and assignments.
+/////////////////////////////////////////////////////////////////////////*/
+
+During this workshop I learned about using templates. Using templates has the advantage
+of being able to use various types freely in functions and classes. On the other hand
+when multiple types of classes are implemented as afunctions of a template, the
+abstract base class would be implemented first, and then as different types of classes
+which in turn gets implemented. 
+
+search function template:
+The search function template accepts a Collection and an array of templated objects. 
+To work with this function, the Collection type must have support for the "==" operator 
+so that we can check for a match between objects and the key. Additionally, the T 
+type (array element type) must be comparable with the Key type using the "==" operator, 
+which is necessary to compare the elements of the array with the key to find matches.
+
+listArrayElements function template:
+The listArrayElements function template prints the elements of an array. To work 
+with this function, the T type must support the insertion operator '<<' so that 
+we can print the elements using the cout object.
